@@ -22,15 +22,22 @@ Also after the purchase the customer as a feedback can review and rate which cou
 ## Screenshots
 
 - Homepage
+![image](https://user-images.githubusercontent.com/77563077/201469554-32f96fad-4c8d-4ef8-97a6-20d78e02de69.png)
 
 
 - Sign in 
+![image](https://user-images.githubusercontent.com/77563077/201469561-e59ed761-b68f-4c30-b538-c9e92042344b.png)
+
 
 
 - Add Store
+![image](https://user-images.githubusercontent.com/77563077/201469577-f64a2b9b-8930-4b13-bf51-53c9c1e76f69.png)
+
  
 
 - Write Review and Rate
+![image](https://user-images.githubusercontent.com/77563077/201469596-9207faaf-e721-49da-b36b-9172d939b1fc.png)
+
 
 ## Contributors
 
