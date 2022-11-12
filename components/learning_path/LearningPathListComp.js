@@ -34,7 +34,7 @@ function LearningPathListComp({
       <div className={LearningPathListCompStyles.l_l_list_wrapper}>
         {pathsData?.map((cardData, index) => {
           return (
-            <Link href={`/p/${cardData.email}-${cardData.Title}`}>
+            <Link href={`/p/${cardData.email}-${cardData.Title}`} key={index}>
               <div
                 className={LearningPathListCompStyles.l_l_list_item}
                 key={index}
