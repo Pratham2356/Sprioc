@@ -1,5 +1,8 @@
 # Sprioc
 
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/Pratham2356/Sprioc/main/assets/_logo/logo.png" alt="logo" />
+</h1>
 Sprioc is the review and rating platform. This plateform is designed with the motive to provide the customers a very refined choice of the marketplace. As with the 
 ever increasing market it is quite tough for the customer to decide. So in order to be specific our platform comes into help. With the specificity it will be very easy 
 for the user a.k.a customer to make a choice. With the help of honest rating and reviews the customer can easily reach out to that particular store for the purchase.
